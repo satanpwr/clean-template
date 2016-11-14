@@ -1,0 +1,13 @@
+{
+  "name": "clear",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "satanpwr"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/satanpwr/clean-template",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
